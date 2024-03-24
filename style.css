@@ -1,10 +1,24 @@
 h3{
 	color: black;
+    text-align: center;
 }
 h5{
 	color: black;
+    text-align: center;
 }
 .maintxt {
     background-image: url(img/1.jpg);
     background-size: cover;
+}
+h1{
+	color: black;
+    text-align: center;
+}
+#salon{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+body{
+    background-color: lightgreen;
 }
